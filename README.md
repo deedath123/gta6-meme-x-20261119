@@ -1,7 +1,12 @@
 # GTA 6 meme — gta6-meme-x-01 entry
 
+[![make.fun · gta6-meme-x-01](https://make.fun/badge/gta6-meme-x-01.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![rank](https://make.fun/badge/gta6-meme-x-01/deedath123/gta6-meme-x-20261119/rank.svg)](https://make.fun/bounty/gta6-meme-x-01/leaderboard?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+[![reward](https://make.fun/badge/gta6-meme-x-01/deedath123/gta6-meme-x-20261119/reward.svg)](https://make.fun/bounty/gta6-meme-x-01?utm_source=github&utm_medium=readme&utm_campaign=gta6-meme-x-01)
+
 Our entry for make.fun's "Post a GTA 6 meme on X" bounty ($500 over the top 50,
 an AI judge compares the posts two at a time; the post itself is the entry).
+Bounty page: https://make.fun/bounty/gta6-meme-x-01
 
 ## The meme
 
